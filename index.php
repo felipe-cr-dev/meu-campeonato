@@ -6,10 +6,10 @@
     <title>Simulação de Partida</title>
 </head>
 <body>
-    <h1>Meu Campeonato de Futibol</h1>
+    <h1>Meu Campeonato de Futebol</h1>
     <p>Insira os Times</p>
 
-    <form action="jogar.php" method="post">
+    <form action="simular.php" method="post">
         Time 1 <br>
         <input type="text" name="time1"> <br><br>
         Time 2 <br>
